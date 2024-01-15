@@ -1,0 +1,13 @@
+{
+  "name": "@subscription-service-search/root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm -r start",
+    "start:web": "pnpm --filter @subscription-service-search/web start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
